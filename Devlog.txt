@@ -1,0 +1,21 @@
+Note: Started logging on 3-9 cause i am an idiot, thus anything before is just what i remember 
+
+
+29-8 : 	Base game engine, displaying sprites, background generation
+30-8 : 	Player Input, Player class, Cursor input
+31-8 : 	Animations framework, Effects framework, stars overhaul, FPS counter
+1-9  : 	Player controls overhaul, player boost, boost animation, collisions (circle)
+2-9  : 	Fixed image black spots on rotation, Started shield andimation
+3-9  : 	Fixed displaySprite offset, made new player sprites with boost, new shield sprites, fixed shield offset, fixed circle collisions
+	Player models, Created GameData class to store all game data 
+4-9  :	Fixed ship collisions with iFrames, added bullet collisions, bullet damage, death animation, death, player death
+	Improved performance by preloading all sprites in GameSprites class, player select, menu button revamp, menu text
+5-9  :	Text shadow, Menu sprites testing, Move screen with cursor, Lock screen, Lock screen toggle, Lock screen option
+	Controls screen, Weapon class and weapon shoot, primary and secondary weapons
+6-9  :  UI Weapon, health, pointer tab, Tutorial window, state implementation, enemy AI : basic
+7-9  :  AI : avoid bullets, check for line of sight and shoot, avoid other enemies (incomplete), missiles, missile death smoke
+	bullet bullet collision
+8-9  :	Guided missiles (2 versions), guided missiles enemies
+
+fix exp and level, make exp bar
+todo extras : health damage animation, health level indication??/
