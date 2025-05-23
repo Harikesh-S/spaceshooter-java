@@ -4,6 +4,9 @@ Dumping the source files for a university assignment from 2020.
 
 2D game written in java (without any external libraries). Includes-
 - Standard 2d game systems - collision, hitboxes, hurtboxes, sprites (with rotation), user input, music, sound effects
+- Directional movement with boosts if the player is facing the movement direction
+- Player movement dampening when no input is given
+- Multiple camera options (locked, free)
 - Randomly generated infinite star field (background)
 - Experience system to upgrade the player's ship
 - Multiple weapons, multiple enemy types with unique AI (collision avoidance, collision seeking etc)
